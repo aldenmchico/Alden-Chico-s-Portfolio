@@ -1,0 +1,5 @@
+pandas
+glob
+requests
+itertools
+bs4
