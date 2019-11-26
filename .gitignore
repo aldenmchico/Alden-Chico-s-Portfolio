@@ -1,1 +1,11 @@
 .DS_Store
+Character-Impact/reference/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/angela/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/dwight/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/michael/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/jim/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/ryan/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/kevin/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/lonny/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/The_Office_S01E03_predictions/jim/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/kelly/prediction/*.png
