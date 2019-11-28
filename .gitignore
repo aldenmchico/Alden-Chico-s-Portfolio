@@ -1,4 +1,5 @@
 .DS_Store
+Character-Impact/facenet_keras_weights.h5
 Character-Impact/reference/*.png
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/angela/prediction/*.png
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/dwight/prediction/*.png
@@ -9,3 +10,7 @@ Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_pre
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/lonny/prediction/*.png
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/The_Office_S01E03_predictions/jim/prediction/*.png
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/test_video_predictions/kelly/prediction/*.png
+Character-Impact/reference/8-Facial_Recognition_Video/test/*.mp4
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/*.mp4
+Character-Impact/reference/8-Facial_Recognition_Video/test/output/IMDb/*.mp4
+Character-Impact/*.h5
