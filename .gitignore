@@ -14,3 +14,6 @@ Character-Impact/reference/8-Facial_Recognition_Video/test/*.mp4
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/*.mp4
 Character-Impact/reference/8-Facial_Recognition_Video/test/output/IMDb/*.mp4
 Character-Impact/*.h5
+San-Francisco/reference/eviction_data.csv
+San-Francisco/reference/police_department/pd_incident_reports.csv
+San-Francisco/reference/police_department/pd_service_calls.csv
